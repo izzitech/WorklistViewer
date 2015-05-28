@@ -1,0 +1,4 @@
+server_ip:172.100.1.200
+server_port:105
+target_aetitle:WL
+local_aetitle:WorklistViewer
